@@ -1,5 +1,5 @@
 # 脱獄ごっこの歴史
-※どんぐり君調べです
+※どんぐり君調べです<br>
 指摘等あれば[@Programmer___](https://twitter.com/programmer___)に<br>
 <br>
 |日付|起きたこと|
