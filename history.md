@@ -28,11 +28,11 @@
 |5/27|バナナ・アイランドが消える、<br>天国への階段が出来る|
 |6/11|人狼に変身機能が登場、<br>ロケランのスピード減少|
 |6/22|チャンピオンリーグが出来る、<br>体力半分になるとパリンが出るように|
-|6/26|しゃぼん銃、水鉄砲登場、<br>ファミ通×電撃の生放送にて初公式ライブ [Youtube](https://youtu.be/YwuMpO7RE5A) [Periscope](https://www.pscp.tv/w/cq8LDjF6dkVOWEp5Wm13S2V8MU1uR25kVnZ3T054TysX6GHO7prF9vAgMsf9Z8ku-FBdtqf2k_N7KnnkkQ_9?t=4s)|
+|6/26|しゃぼん銃、水鉄砲登場、<br>ファミ通×電撃の生放送にて初公式ライブ<br>[Youtube](https://youtu.be/YwuMpO7RE5A) [Periscope](https://www.pscp.tv/w/cq8LDjF6dkVOWEp5Wm13S2V8MU1uR25kVnZ3T054TysX6GHO7prF9vAgMsf9Z8ku-FBdtqf2k_N7KnnkkQ_9?t=4s)|
 |8/05|金リンゴイベントが追加|
 |8/25|テレポート消える、<br>ワープドア登場|
 |9/10|シャークシップが消える、<br>新脱獄が出来る|
-|9/21|1週年記念オンラインイベント(2回目の公式ライブ) [Youtube(非公開)](https://youtu.be/H3GTvzlUJsE) [Periscope](https://www.pscp.tv/w/cq8NlDF6dkVOWEp5Wm13S2V8MXluSk9xUlptV1ZLUrbnNFFd7woe91akVF9fGvEWWO22xOYWOIo1aSl5RifK?t=6s)|
+|9/21|1週年記念オンラインイベント(2回目の公式ライブ)<br>[Youtube(非公開)](https://youtu.be/H3GTvzlUJsE) [Periscope](https://www.pscp.tv/w/cq8NlDF6dkVOWEp5Wm13S2V8MXluSk9xUlptV1ZLUrbnNFFd7woe91akVF9fGvEWWO22xOYWOIo1aSl5RifK?t=6s)|
 |10/01|シーズン4スタート、<br>新脱獄の上昇気流追加|
 |10/16|ハロウィンイベントスタート(11/8まで)|
 |10/22|ホワイト・タワーが消える、<br>バナナ・アイランドがリニューアル|
@@ -41,6 +41,7 @@
 |12/16|ブタ爆とリモボム消える、<br>ラッキーツリー登場|
 |12/23|500万ダウンロード記念|
 |1/21|天国の階段が消える、<br>ホワイト・タワーが水没してリニューアル|
+|2/13|MOONSTAR Presents 第1回『脱獄ごっこ』グランプリ(3回目の公式ライブ)<br>[UUUMの記事](https://uuum.jp/posts/273153)|
 
 <br><br>
 <u>2021/01/22更新</u>
