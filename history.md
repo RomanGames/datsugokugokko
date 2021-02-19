@@ -19,7 +19,8 @@
 |12/01|5vs5が出来る、<br>脱獄ごっこTwitterアカウント始動|
 |12/23|シーズン2スタート|
 |12/30|人間大砲登場|
-|2020/1/28|バナナ・アイランドが出来る|
+|2020/1/24|ゲーガクTVによる初公式ライブ<br>[Youtube](https://youtu.be/nelnaNDczTY)|
+|1/28|バナナ・アイランドが出来る|
 |3/02|200万ダウンロード記念、<br>シャーク・シップが出来る|
 |3/26|レーザー刀登場|
 |5/02|シーズン3スタート|
@@ -28,11 +29,11 @@
 |5/27|バナナ・アイランドが消える、<br>天国への階段が出来る|
 |6/11|人狼に変身機能が登場、<br>ロケランのスピード減少|
 |6/22|チャンピオンリーグが出来る、<br>体力半分になるとパリンが出るように|
-|6/26|しゃぼん銃、水鉄砲登場、<br>ファミ通×電撃の生放送にて初公式ライブ<br>[Youtube](https://youtu.be/YwuMpO7RE5A) [Periscope](https://www.pscp.tv/w/cq8LDjF6dkVOWEp5Wm13S2V8MU1uR25kVnZ3T054TysX6GHO7prF9vAgMsf9Z8ku-FBdtqf2k_N7KnnkkQ_9?t=4s)|
+|6/26|しゃぼん銃、水鉄砲登場、<br>ファミ通×電撃の生放送にて3回目の公式ライブ<br>[Youtube](https://youtu.be/YwuMpO7RE5A) [Periscope](https://www.pscp.tv/w/cq8LDjF6dkVOWEp5Wm13S2V8MU1uR25kVnZ3T054TysX6GHO7prF9vAgMsf9Z8ku-FBdtqf2k_N7KnnkkQ_9?t=4s)|
 |8/05|金リンゴイベントが追加|
 |8/25|テレポート消える、<br>ワープドア登場|
 |9/10|シャークシップが消える、<br>新脱獄が出来る|
-|9/21|1週年記念オンラインイベント(2回目の公式ライブ)<br>[Youtube(非公開)](https://youtu.be/H3GTvzlUJsE) [Periscope](https://www.pscp.tv/w/cq8NlDF6dkVOWEp5Wm13S2V8MXluSk9xUlptV1ZLUrbnNFFd7woe91akVF9fGvEWWO22xOYWOIo1aSl5RifK?t=6s)|
+|9/21|1週年記念オンラインイベント(3回目の公式ライブ)<br>[Youtube(非公開)](https://youtu.be/H3GTvzlUJsE) [Periscope](https://www.pscp.tv/w/cq8NlDF6dkVOWEp5Wm13S2V8MXluSk9xUlptV1ZLUrbnNFFd7woe91akVF9fGvEWWO22xOYWOIo1aSl5RifK?t=6s)|
 |10/01|シーズン4スタート、<br>新脱獄の上昇気流追加|
 |10/16|ハロウィンイベントスタート(11/8まで)|
 |10/22|ホワイト・タワーが消える、<br>バナナ・アイランドがリニューアル|
@@ -45,4 +46,4 @@
 |2/13|MOONSTAR Presents 第1回『脱獄ごっこ』グランプリ(3回目の公式ライブ)<br>[UUUMの記事](https://uuum.jp/posts/273153)|
 
 <br><br>
-<u>2021/02/08更新</u>
+<u>2021/02/19更新</u>
