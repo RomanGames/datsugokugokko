@@ -1,6 +1,6 @@
 # 脱獄ごっこの歴史
-※どんぐり君調べです<br>
-指摘等あれば[@Programmer___](https://twitter.com/programmer___)に<br>
+※りすりす(どんぐり君)調べです<br>
+指摘等あれば[@TwoSquirrels](https://twitter.com/twosquirrels)に<br>
 <br>
 |日付|起きたこと|
 |-:|:-|
@@ -45,6 +45,7 @@
 |2/08|ランキングが期間やフレンド等でシボって見れるように|
 |2/13|MOONSTAR Presents 第1回『脱獄ごっこ』グランプリ(3回目の公式ライブ)<br>[UUUMの記事](https://uuum.jp/posts/273153)|
 |3/02|水没していたホワイト・タワーが元に戻る|
+|3/24|シーズン5スタート|
 
 <br><br>
-<u>2021/3/02更新</u>
+<u>2021/3/25更新</u>
